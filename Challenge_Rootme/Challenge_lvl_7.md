@@ -108,11 +108,11 @@ Output :
 
     '$RECYCLE.BIN'   flag.jpg  'System Volume Information'
 
-![](/img/flag2-1.png)
+![](./img/flag2-1.png)
 
 
 On obtient l'image flag.jpg : 
 
-![](/img/flag2.png)
+![](./img/flag2.png)
 
 Le mot de passe du challenge est **B1tL0ck3R_1ts_n0t_sUr3** !
