@@ -27,7 +27,8 @@ Le hash qui nous interresse est le **3e126da93e034356d4e8cc3e0dd24357** !
 Ensuite il faut cracker le hash :
 
     echo "3e126da93e034356d4e8cc3e0dd24357" > hash
-
+<b>
+    
     john hash --format=NT -w=/usr/share/wordlists/rockyou.txt
 
 Output :
