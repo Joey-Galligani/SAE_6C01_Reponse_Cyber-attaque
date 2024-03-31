@@ -4,7 +4,6 @@
 
 J'ai dumpé la mémoire de ma VM qui a un utilisateur *admin* avec mot de passe *adminadmin*.
 
-![](./img.png)
 
 Utilisation de volatility pour afficher les hashs qui correspondent aux mots de passes des utilistaurs : 
 
