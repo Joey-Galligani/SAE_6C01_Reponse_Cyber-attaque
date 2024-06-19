@@ -73,6 +73,9 @@ TimeLine :
 
 ![](./img/timeline_DC.png)
 
+<br>
 
 ## Interprétation des résultats de Hayabusa 
 
+En continuant mes investigations en mettant les logs en CSV sortient de Hayabusa dans Splunk j'ai découvert que les logs du matin était uniquement des connexion classique, rien d'alarmant.
+J'ai donc trouver l'heure de l'intrusion qui est à 15h45 avec la detection d'un cheval de troie par Windows defender sur le GLPI.
