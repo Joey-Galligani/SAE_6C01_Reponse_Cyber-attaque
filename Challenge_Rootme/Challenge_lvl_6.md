@@ -30,4 +30,4 @@ J'ai ouvert le dossier *bcache* graphiquement et j'ai trouvé cela :
 
 ![](./img/flag.png)
 
-Le flag est donc **RdP_l3av3s_Trac3S** !
+Le flag est donc ******** !
