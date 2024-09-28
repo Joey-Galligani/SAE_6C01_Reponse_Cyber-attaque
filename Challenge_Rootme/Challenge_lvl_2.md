@@ -45,4 +45,4 @@ Output :
     Use the "--show --format=NT" options to display all of the cracked passwords reliably
     Session completed. 
 
-Le mot de passe est donc **passw0rd**.
+Le mot de passe est donc ******.
