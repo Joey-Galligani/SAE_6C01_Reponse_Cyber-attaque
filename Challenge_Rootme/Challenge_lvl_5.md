@@ -32,4 +32,4 @@ Output :
     traff-6.hugedomains.com 		                            2003-10-31 	TurnCommerce, Inc. DBA NameBright.com
     y0ug.itisjustluck.com 		                                2019-08-23 	NAMECHEAP INC
 
-Le domain que l'ont cherhce est celui qui n'est pas *Registrar* c'est donc **th1sis.l1k3ak3y.org** !
+Le domain que l'ont cherhce est celui qui n'est pas *Registrar* c'est donc ******* !
