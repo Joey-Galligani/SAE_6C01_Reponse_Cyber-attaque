@@ -83,4 +83,4 @@ Output :
 
 <br>
 
-Le nom de la machine est **WIN-ETSA91RKCFP** !
+Le nom de la machine est ******* !
