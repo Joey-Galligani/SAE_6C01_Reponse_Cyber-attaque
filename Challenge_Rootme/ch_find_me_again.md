@@ -98,4 +98,4 @@ On obtient le mot de passe : *Cyb3rs3curit3*
 
     gimp flag.gif
 
-Ensuite, en scannant chaque QRcode du GIF j'obtient **The_flag_is:1_Lik3_FOr3nS1c_4nd_yOu?**.
+Ensuite, en scannant chaque QRcode du GIF j'obtient ********.
