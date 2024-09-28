@@ -225,4 +225,4 @@ Output :
     winpmem-1.3.1. pid:   3144
     Command line : winpmem-1.3.1.exe  ram.dmp
                                            
-Nous voyons que pour le pid *2772* le chemin est **C:\Users\John Doe\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\iexplore.exe** sont hash md5 est **49979149632639432397b3a1df8cb43d** !
+Nous voyons que pour le pid *2772* le chemin est **C:\Users\John Doe\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\iexplore.exe** sont hash md5 est ********9632639432397b3a1df8cb43d** !
