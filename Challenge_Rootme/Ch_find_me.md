@@ -68,5 +68,5 @@ J'ai reconnu un mot de passe chiffré en base64
 
 <br>
 
-En le dechiffrant en ligne à l'aide de Cyberchef j'obtient le flag : **K33p4ss_its_a_gR3at_T00l_4_P@sSw0rD!**
+En le dechiffrant en ligne à l'aide de Cyberchef j'obtient le flag : *********
 
