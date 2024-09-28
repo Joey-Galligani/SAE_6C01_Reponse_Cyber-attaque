@@ -48,4 +48,4 @@ Output :
     tcprelay.c
     tcprelay.exe 192.168.0.22 3389 yourcsecret.co.tv 443 
 
-Nous voyons ici que l'adresse IP ainsi que le port est **192.168.0.22:3389** !
+Nous voyons ici que l'adresse IP ainsi que le port est ******* !
