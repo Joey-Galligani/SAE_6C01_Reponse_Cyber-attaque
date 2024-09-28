@@ -115,4 +115,4 @@ On obtient l'image flag.jpg :
 
 ![](./img/flag2.png)
 
-Le mot de passe du challenge est **B1tL0ck3R_1ts_n0t_sUr3** !
+Le mot de passe du challenge est ******* !
